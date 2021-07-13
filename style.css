@@ -4,7 +4,67 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
+    margin: 0;
+    padding: 0;
 }
+
+/* heading  */
+.nav-menu{
+    background-color: #562EFF;
+    height: 94px;
+    margin-top: 0%;
+}
+.icon img{
+    width: 40px;
+    height: 51px;
+    color: #FFFFFF, 100%;
+}
+.icon{
+    margin-right: 15px;
+}
+.nav ul li{
+    list-style-type: none;
+    margin-right: 26px;
+    margin: 0 35px;
+    margin: 33px o;
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+
+}
+.icon-name{
+    display: flex;
+    margin-left: 240px;
+    align-items: center;
+}
+.name h5{
+    color: #FFFFFF;
+    font-size: 24px;
+}
+.nav{
+    margin-right: 115px;
+}
+
+
+
+
+
+
+
+
+
+
 
 /* top players style  */
 main{
